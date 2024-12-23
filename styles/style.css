@@ -247,10 +247,6 @@
     font-weight: normal;
     line-height: 24px;
     grid-column: 2;
-    
-}
-
-.about__text p:first-child {
     margin-bottom: 24px;
 }
 
